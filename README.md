@@ -25,7 +25,7 @@
 
 - 🌱 I’m passionate about  **Software Quality Assurance | Automation**.
 - 🎓 Undergraduate at the University of Moratuwa.
-- 📝 I regularly write articles on software testing at [My Blog](https://gloomybloomyblog.blogspot.com/).
+- 📝 I  write articles on software testing at [My Blog](https://gloomybloomyblog.blogspot.com/).
 - 💬 Ask me about **Software Testing**.
 - 📫 Reach me at **[sampathdh199@gmail.com](mailto:sampathdh199@gmail.com)**.
 
@@ -42,12 +42,6 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=blue" alt="SQL" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=green" alt="Node.js" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=blue" alt="React" style="margin-bottom: 5px;"/>
   </a>
 </div>
 
@@ -95,7 +89,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> **Let's Connect!**
 
 <div align='left'>
-  <a href="https://www.linkedin.com/in/hashan-sampath-138710184" target="_blank">
+  <a href="https://www.linkedin.com/in/samapthhashandompeyalage/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
   <br><br>
