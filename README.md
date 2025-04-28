@@ -23,7 +23,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right" alt="Hashan's Avatar"/>
 
-- 🌱 I’m passionate about  **Software Quality Assurance | Automation**.
+- 🌱 I’m passionate about  **Software Quality Assurance | Automation | Java Programming**.
 - 🎓 Undergraduate at the University of Moratuwa.
 - 📝 I  write articles on software testing at [My Blog](https://gloomybloomyblog.blogspot.com/).
 - 💬 Ask me about **Software Testing**.
