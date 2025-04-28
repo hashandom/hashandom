@@ -25,7 +25,7 @@
 
 - 🌱 I’m passionate about  **Software Quality Assurance | Automation | Java Programming**.
 - 🎓 Undergraduate at the University of Moratuwa.
-- 📝 I  write articles on software testing at [My Blog](https://gloomybloomyblog.blogspot.com/).
+- 📝 I  write articles on Technologies at [My Blog](https://gloomybloomyblog.blogspot.com/).
 - 💬 Ask me about **Software Testing**.
 - 📫 Reach me at **[sampathdh199@gmail.com](mailto:sampathdh199@gmail.com)**.
 
